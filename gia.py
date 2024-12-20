@@ -1,3 +1,6 @@
+#si quieres usar y entrenar este modelo , hacerlo correr en Google colab con un entorno
+#Gpu 
+#y descargar el modelo
 # Línea 1 - Descargar librerías
 import tensorflow as tf
 import tensorflow_datasets as tfds
